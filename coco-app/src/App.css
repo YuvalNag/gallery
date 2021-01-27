@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background:radial-gradient(#98d4ea, #00212e);
+
+}
+
+
+
+
+
+.App-header {
+
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(50px + 2vmin);
+  color: white;
+  font-family: 'Dancing Script', cursive;
+}
+
+.App-link {
+  color: #61dafb;
+}
